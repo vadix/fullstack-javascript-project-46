@@ -4,5 +4,5 @@ publish:
 	npm publish --dry-run
 lint:
 	npx eslint .
-brain-games:
+gendiff:
 	node bin/gendiff.js
